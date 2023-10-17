@@ -18,7 +18,7 @@ function hanako65(){
 }
 
 var who66 = 'world';
-function sayhello65(){
+function sayhello66(){
   alert('Hello,' + who66 + '!');
 }
 function taro66(){
