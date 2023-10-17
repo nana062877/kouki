@@ -17,9 +17,10 @@ function hanako65(){
   who65 = '花子';
 }
 
+var kita = 'が来た';
 function taro66(){
-  alert(who65 = '太郎' + が来た;)
+  alert(who65 = '太郎' + kita;)
 }
 function hanako66(){
-  alert(who65 = '花子' + が来た;)
+  alert(who65 = '花子' + kita;)
 }
