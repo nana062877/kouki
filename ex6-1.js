@@ -19,8 +19,8 @@ function hanako65(){
 
 var kita = '...が来た'
 function taro66(){
-  who65 = '太郎' + kit;
+  alert(who65 = '太郎' + kit;)
 }
 function hanako66(){
-  who65 = '花子' + kit;
+  alert(who65 = '花子' + kit;)
 }
