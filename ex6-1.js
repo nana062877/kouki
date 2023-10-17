@@ -16,3 +16,11 @@ function taro65(){
 function hanako65(){
   who65 = '花子';
 }
+
+var kita = '...が来た'
+function taro66(){
+  who65 = '太郎' + kit;
+}
+function hanako66(){
+  who65 = '花子' + kit;
+}
