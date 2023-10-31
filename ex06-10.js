@@ -1,9 +1,9 @@
 function imgchange1(){
-  document.getElementById('logo').src =
-    './image/sai.jpg';
+  document.getElementById('neko').src =
+    './image/tatu.png';
 }
 
 function imgchange2(){
-  document.getElementById('logo').src =
-    './image/rogo.jpg';
+  document.getElementById('neko').src =
+    './image/tatu.png';
 }
