@@ -8,4 +8,4 @@ function hyoji14(){
   document.getElementById('who14').innerHTML=
     '<img src="./image/syobon.png" alt="悲しい">';
   //setTimeout()を含む関数を呼び込む
-  setTimeout("hyoji14-2()",3000);}
+  setTimeout("hyoji142()",3000);}
