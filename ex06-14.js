@@ -4,7 +4,7 @@ function hyoji14(){
   ;}
 }
 
- function hyoji14-2(){
+ function hyoji142(){
   document.getElementById('who14').innerHTML=
     '<img src="./image/syobon.png" alt="悲しい">';
   //setTimeout()を含む関数を呼び込む
