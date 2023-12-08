@@ -3,11 +3,13 @@ function BMI2(){
   var omosa2 = Number(document.getElementById('omosa2').value);
   var BMI2 = omosa2 / (takasa2 * takasa2); //BMIの計算
 
+  var taikei
   if(BMI2 < 18.5){
-  alert('低体重');
+  taikei = '低体重';
   }else if(BMI2 < 25){
-    alert('普通');
+    taikei = '普通';
     }else{
-    alert('肥満');
+    taikei = '肥満';
   }
+  alert('BMI値は' + BMI2 + 'です。これは' + taikei + '体系です。')
 }
