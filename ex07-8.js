@@ -1,7 +1,7 @@
 function nazo78(){
-  if(document.getElementById('answer78').value == '夢'){
+  if(document.getElementById('answer78').value = '夢'){
     alert('あたり！');
-  }else{
+  }else if(document.getElementById('answer78').value == '夢'){
     alert('はずれ！');
   }
 }
