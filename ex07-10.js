@@ -3,9 +3,9 @@ function BMI2(){
   var omosa2 = Number(document.getElementById('omosa2').value);
   var BMI2 = omosa / (takasa2 * takasa2); //BMIの計算
 
-  if(document.getElementById('BMI2').value << 18.5){
+  if(BMI2 < 18.5){
   alert('低体重');
-  }else if(document.getElementById('BMI2').value << 25){
+  }else if(BMI2 < 25){
     alert('普通');
     }else{
     alert('肥満');
