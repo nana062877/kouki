@@ -8,5 +8,5 @@ if(tosi /= 400){
 }else if(tosi /= 4){
   to = '閏年';
 }
-  alert(tosi + '年は' + to 'です。')
+  alert(tosi + '年は' + to + 'です。')
 }
