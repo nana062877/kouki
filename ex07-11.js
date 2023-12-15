@@ -7,7 +7,7 @@ if((tosi % 4 ==0 && tosi % 100 != 0 )// tosi % 400 ==0){
 }else{
   to = '平年';
 }
-  alert(tosi + '年は' + to + 'です。')
+  alert(tosi + '年は' + to + 'です。');
 }
 
 
