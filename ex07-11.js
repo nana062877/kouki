@@ -1,6 +1,6 @@
 function nenn(){
   var tosi = Number(document.getElementById('tosi').value);
-  var to;
+  var tosss;
 
 if((tosi % 4 ==0 && tosi % 100 != 0 )// tosi % 400 ==0){
   tosss = '閏年';
